@@ -20,6 +20,7 @@ namespace Forms1App
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = "WHHYYYYY !!!";
+            label2.Text = "WHHYYYYY !!!";
         }
 
         private void monthCalendar1_DateChanged(object sender, DateRangeEventArgs e)
