@@ -21,6 +21,8 @@ namespace Forms1App
         {
             label1.Text = "WHHYYYYY !!!";
             label2.Text = "WHHYYYYY !!!";
+            checkBox1.Checked = true;
+            checkBox1.Text = "WHHYYYYY !!!";
         }
 
         private void monthCalendar1_DateChanged(object sender, DateRangeEventArgs e)
