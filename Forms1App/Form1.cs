@@ -36,6 +36,7 @@ namespace Forms1App
             label2.Text = "";
             checkBox1.Checked = false;
             checkBox1.Text = "";
+            // it wasnt possible to return to the fist look of textBoxes
         }
     }
 }
