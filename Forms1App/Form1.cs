@@ -29,5 +29,13 @@ namespace Forms1App
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = "";
+            label2.Text = "";
+            checkBox1.Checked = false;
+            checkBox1.Text = "";
+        }
     }
 }
